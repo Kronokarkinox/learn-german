@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian-html-export]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian-html-export</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 16 Jul 2026 10:11:10 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 16 Jul 2026 10:11:09 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Learn German]]></title><description><![CDATA[
-Tag – Day
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian-html-export]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian-html-export</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 17 Jul 2026 09:40:20 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 17 Jul 2026 09:40:20 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Learn German]]></title><description><![CDATA[
+<a data-tooltip-position="top" aria-label="https://cheatography.com/adonerblica/cheat-sheets/german-grammar/" rel="noopener nofollow" class="external-link is-unresolved" href="https://cheatography.com/adonerblica/cheat-sheets/german-grammar/" target="_self">German Grammer Cheatsheet</a> A one-pager that summarises the most essential points of German grammar such as the use of cases, articles, reflexive pronouns and prepositions. Tag – Day
 Morgen – Morning
 Abend – Evening
 Nacht – Night
@@ -10,4 +10,57 @@ wieder – Again
 sehen – To see
 hören – To hear
 bald – Soon
-später – Later Grüß Gott! – Hello! (A traditional greeting used primarily in Southern Germany and Austria) Grüß Sie / Grüß dich! – Hello! Servus! – Hello! / Bye! (A casual regional greeting and farewell) Auf Wiedersehen! – See you again! / Goodbye! Auf Wiederhören! – Bye! (Used specifically when hanging up the telephone) Bis bald! – See you soon! Bis später! – See you later! "Hallo!" Translation: Hello! "Guten Tag!" Translation: Good day! "Guten Morgen!" Translation: Good morning! "Guten Abend!" Translation: Good evening! "Gute Nacht!" Translation: Good night! "Tschüs!" Translation: Bye! ]]></description><link>learn-german.html</link><guid isPermaLink="false">Learning/Learn German.md</guid><pubDate>Thu, 16 Jul 2026 10:07:02 GMT</pubDate></item></channel></rss>
+später – Later Grüß Gott! – Hello! (A traditional greeting used primarily in Southern Germany and Austria)
+Grüß Sie / Grüß dich! – Hello!
+Servus! – Hello! / Bye! (A casual regional greeting and farewell)
+Auf Wiedersehen! – See you again! / Goodbye!
+Auf Wiederhören! – Bye! (Used specifically when hanging up the telephone)
+Bis bald! – See you soon!
+Bis später! – See you later! "Hallo!" Translation: Hello! "Guten Tag!" Translation: Good day! "Guten Morgen!" Translation: Good morning! "Guten Abend!" Translation: Good evening! "Gute Nacht!" Translation: Good night! "Tschüs!" Translation: Bye! danke – thank / thanks
+vielen – many
+bitte – please / you are welcome
+schön – beautiful / lovely (used here to add emphasis)
+sprechen – to speak
+Deutsch – German
+Englisch – English
+etwas – a bit of / some
+kein / keine – no / not any
+verstehen – to understand
+nicht – not
+weiß – know (from wissen - to know a fact)
+Ahnung – clue / idea
+Moment – moment
+ja / nein / vielleicht – yes / no / maybe Danke / Danke schön! / Vielen Dank! – Thanks! / Thank you very much!
+Bitte / Bitte schön! – You are welcome!
+Bitte! – Please!
+Entschuldigen Sie, bitte! – Excuse me, please! (Formal)
+Entschuldigung, bitte! – Excuse me, please! (Informal)
+Wie bitte? – I beg your pardon? / What did you say?
+Noch einmal, bitte! – Once again, please!
+Keine Ahnung! – No idea!
+Einen Moment, bitte! – Just a moment, please! "Es tut mir leid!" Translation: I am sorry! "Bitte wiederholen Sie!" Translation: Please repeat! "Sprechen Sie Deutsch / Englisch?" Translation: Do you speak German / English? "Ich spreche etwas / kein Deutsch." Translation: I speak a bit of / I don't speak German. "Ich verstehe nicht." Translation: I don't understand. "Ich weiß nicht." Translation: I don't know. Zahl / Zahlen – Number / Numbers
+Lektion – Lesson
+Handynummer – Mobile number
+null – Zero
+eins – One
+zwei – Two
+drei – Three
+vier – Four
+fünf – Five
+sechs – Six
+sieben – Seven
+acht – Eight
+neun – Nine
+zehn – Ten
+elf – Eleven
+zwölf – Twelve
+dreizehn – Thirteen
+vierzehn – Fourteen
+fünfzehn – Fifteen
+sechzehn – Sixteen
+siebzehn – Seventeen
+achtzehn – Eighteen
+neunzehn – Nineteen
+zwanzig – Twenty Lektion drei – Lesson three
+Zahl und Zahlen – Number and numbers
+Meine Handynummer ist... – My mobile number is... "Wie ist Ihre Handynummer?" Translation: What is your mobile number? (Formal) "Wie ist deine Handynummer?" Translation: What is your mobile number? (Informal) "Meine Handynummer ist null eins acht sieben sechs drei zwei neun vier fünf." Translation: My mobile number is 0187632945. ]]></description><link>learn-german.html</link><guid isPermaLink="false">Learning/Learn German.md</guid><pubDate>Fri, 17 Jul 2026 09:39:31 GMT</pubDate></item><item><title><![CDATA[No title]]></title><link>abev-journal/2026-06-02.html</link><guid isPermaLink="false">ABev Journal/2026-06-02.md</guid></item></channel></rss>
